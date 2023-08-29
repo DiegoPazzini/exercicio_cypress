@@ -1,4 +1,4 @@
-# Exercicio Cypres 
+# Exercicio Cypress
 
 Modulo N° 24 Curso Fullstack Java da EBAC
 
