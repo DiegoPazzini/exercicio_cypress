@@ -4,8 +4,8 @@ Modulo N° 24 Curso Fullstack Java da EBAC
 
 ## Precissa para testar:
 
-Instalar pacotes de NPM conforme dependencia do package.json para isto execute comando ``` npm i --save-dev ```
-Apos disto execute o comando ```npm run cypress open``` para executar o Cypress
+Foi instaladoo pacotes de NPM conforme dependencia do package.json para instalar foi executado o comando ``` npm i --save-dev ```
+Apos disto executado o comando ```npm run cypress open``` para executar o Cypress
 
 Descrição do projeto:
 
